@@ -4,7 +4,7 @@
 # Kelas : TI.22.A3
 
 # Tugas
-![Gambar](gambar//pm10.png)
+![Screenshot_1](https://github.com/yudifermana/impicitintens/assets/115516653/d3dd95cb-ff51-446a-b607-a774fd9c83cd)
 # Input
 ## ```AndroidManifest.xml```
 ```python
